@@ -1,0 +1,22 @@
+Firstly, we have added c++ code to display current date and time in our BILL 
+COUNTER.
+Then customer name is asked by the system.
+After that while loop will continue until the customer checkouts the cart.
+After that customers would be getting 3 options:
+1)add item 
+2)view cart
+3)checkout
+If the customer enters a to add item then number of products will be displayed 
+which are stored in the allProducts vector then the person will select the product 
+from the available products.
+The selected product will be then added to hash table where id of product is used 
+as key and its name as the value of key.
+While adding the products to his cart the customer can also view the cart .If the 
+cart is empty then cart is empty message is displayed but if the cart has items then 
+we will traverse accross hashtable to view product for traversing across cart we 
+will use items hashtable and there we will only retrieve the value i.e. product name 
+so for that itempair.second is used.
+Atlast, we will checkout the cart by paying our bill , through cart class we will get 
+our total bill and through checkout function we will be able to pay and exit the cart 
+successfully.
+
