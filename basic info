@@ -1,0 +1,26 @@
+The Shopping cart is mainly useful for those who haven’t time to go to shopping, 
+those are just entered into this website and bought what ever they want. Even it is 
+night or morning they entered into this site, and chosen different items like fruits, 
+books, toys etc. ‘Customer is our god’ mainly this website is based on this formula. 
+After chosen items he bought into paying process. Customer is happily shopping at 
+his rest place.
+Online shopping Cart is the process whereby consumers directly buy goods or 
+services from a seller in real-time, without an intermediary service, over the 
+Internet. It is a form of electronic commerce. An online shop, eshop, e-store, 
+internet shop, webshop, online store, or virtual store evokes the physical analogy of 
+buying products or services at a bricks-and-mortar retailer or in a shopping centre. 
+The process is called Business-to-Consumer (B2C) online shopping
+In our project we have coded in a such a manner so that the user can see the 
+products available in the shopping complex, add them to his cart while adding 
+he/she can view the cart and his current total bill at last he would also have the 
+option for payment. During payment when the customer will enter the payment 
+amount he would be giving to person on bill counter , then that person who is on 
+bill counter would be able to see change amount he would be required to give to 
+the customer.
+For this project we have used:
+1) Hashing (unordered map)
+2) Vectors
+3) Linear Search Algorithm
+4)String
+5)OOPS
+6)STL (in vectors)
